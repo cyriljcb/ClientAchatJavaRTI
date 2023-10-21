@@ -11,7 +11,6 @@ import java.net.Socket;
 
 import static java.lang.System.exit;
 
-
 public class interface_Graphique extends JFrame {
     private int ligneSelectionne = -1;
     private String idClient;
